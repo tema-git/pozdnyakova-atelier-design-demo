@@ -1,0 +1,32 @@
+{
+  "brand": "Авторское ателье Марии Поздняковой",
+  "short_brand": "М. Позднякова",
+  "slug": "pozdnyakova-atelier-design-demo",
+  "email": "atelier_pozdniakova@mail.ru",
+  "phone": "+79857384440",
+  "phone_display": "+7 985 738-44-40",
+  "address": "проспект Вернадского, 94к5",
+  "city": "Москва",
+  "telegram": "https://t.me/atelier_pozdniakova",
+  "telegram_channel": "https://t.me/atelier_pozdniakova",
+  "source_urls": [
+    "https://t.me/atelier_pozdniakova",
+    "https://msk.spravka.city/company/avtorskoe-atele-marii-pozdnyakovoj",
+    "https://t.me/s/rabota_fashion/5348"
+  ],
+  "spreadsheet_row": 21,
+  "sheet_status": "Не связывались",
+  "contacted": false,
+  "verified_on": "2026-10-30",
+  "email_evidence": "Exact email in public company directory and named employer vacancy on RabotaFashion; phone/address confirmed by official Telegram channel.",
+  "website_status": "Own standalone domain not found in current quoted brand/email searches and official Telegram profile; Telegram used as website link.",
+  "caveats": [
+    "Standalone domain absence cannot be guaranteed."
+  ],
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "2617d97431b663fa417961ffd5e7881d0bee6275",
+  "prepared_on": "2026-10-30",
+  "demo_only": true,
+  "data_submission": false,
+  "repository": "pozdnyakova-atelier-design-demo"
+}
